@@ -1,4 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Axios
+
+Adding Axios and using it's methods.
+**axios.create();**
+**axios.get();**
+**axios.interceptors();**
+**axios.interceptors.request/response();**
 
 ## Available Scripts
 
